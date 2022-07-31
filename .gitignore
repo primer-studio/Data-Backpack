@@ -1,0 +1,4 @@
+*.zip
+*.sql
+config.php
+logs.txt
